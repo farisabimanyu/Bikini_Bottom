@@ -1,0 +1,7 @@
+{
+  "name": "Bikini_Bottom",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular-standalone"
+}
